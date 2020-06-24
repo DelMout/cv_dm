@@ -233,7 +233,7 @@ h2 { /*Titres bandeau dans liseré*/
 /*----------------MEDIA QUERIES------site responsive------------------*/
 
 /*--------Format tablette---------*/
-@media screen and (max-device-width: 992px) 
+@media only screen and (max-device-width: 992px) 
 {
 body {
 	flex-wrap: nowrap;
@@ -313,7 +313,7 @@ article {
 }
 
 /*---------Format mobile---------*/
-@media screen and (max-device-width: 767px) {
+@media only screen and (max-device-width: 767px) {
 
 header {
 	height:20%;
