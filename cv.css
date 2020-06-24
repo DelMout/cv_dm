@@ -233,7 +233,7 @@ h2 { /*Titres bandeau dans liseré*/
 /*----------------MEDIA QUERIES------site responsive------------------*/
 
 /*--------Format tablette---------*/
-@media all and (max-width: 992px) 
+@media screen and (max-device-width: 992px) 
 {
 body {
 	flex-wrap: nowrap;
