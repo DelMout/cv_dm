@@ -237,6 +237,7 @@ h2 { /*Titres bandeau dans liseré*/
 {
 body {
 	flex-wrap: nowrap;
+	height:auto;
 	}
 
 header{
