@@ -352,9 +352,17 @@ h2 {
 	margin-right: 0%;
 		}
 
+h3{
+	font-size:1.1em;
+}
 .liste,#reco{
 	flex-direction:column;
 		}
+
+#reco article{
+	text-align:left;
+	width:100%;
+}
 
 .liste aside,.liste article{
 	width:100%;
